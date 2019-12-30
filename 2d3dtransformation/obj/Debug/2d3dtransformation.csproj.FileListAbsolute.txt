@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\2d3dtransformation\2d3dtransformation\bin\Debug\2d3dtransformation.exe.config
+C:\Users\User\Desktop\2d3dtransformation\2d3dtransformation\bin\Debug\2d3dtransformation.exe
+C:\Users\User\Desktop\2d3dtransformation\2d3dtransformation\bin\Debug\2d3dtransformation.pdb
+C:\Users\User\Desktop\2d3dtransformation\2d3dtransformation\obj\Debug\2d3dtransformation.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\2d3dtransformation\2d3dtransformation\obj\Debug\_2d3dtransformation.Form1.resources
+C:\Users\User\Desktop\2d3dtransformation\2d3dtransformation\obj\Debug\_2d3dtransformation.Form2.resources
+C:\Users\User\Desktop\2d3dtransformation\2d3dtransformation\obj\Debug\_2d3dtransformation.Form3.resources
+C:\Users\User\Desktop\2d3dtransformation\2d3dtransformation\obj\Debug\_2d3dtransformation.Properties.Resources.resources
+C:\Users\User\Desktop\2d3dtransformation\2d3dtransformation\obj\Debug\2d3dtransformation.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\2d3dtransformation\2d3dtransformation\obj\Debug\2d3dtransformation.exe
+C:\Users\User\Desktop\2d3dtransformation\2d3dtransformation\obj\Debug\2d3dtransformation.pdb
+C:\Users\User\Desktop\2d3dtransformation\2d3dtransformation\obj\Debug\_2d3dtransformation.Form4.resources
+C:\Users\User\Desktop\2d3dtransformation\2d3dtransformation\obj\Debug\_2d3dtransformation.Form5.resources
+C:\Users\User\Desktop\2d3dtransformation\2d3dtransformation\obj\Debug\_2d3dtransformation.Form6.resources
